@@ -35,7 +35,7 @@ make
 ``` sh
 ### clean
 ``` sh
-mae clean
+make clean
 ``` sh
 ### install
 ``` sh
