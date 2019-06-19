@@ -1,0 +1,3 @@
+  - [ ] proofread
+  - [ ] manual
+  - [ ] improve README.md
