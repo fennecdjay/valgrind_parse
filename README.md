@@ -32,20 +32,20 @@ cat my_log | valgrind_parse
 ### build
 ``` sh
 make
-``` sh
+```
 ### clean
 ``` sh
 make clean
-``` sh
+```
 ### install
 ``` sh
 make install
-``` sh
+```
 ### uninstall
 ``` sh
 make uninstall
 ```
 ### test
-```
+``` sh
 make test
 ```
