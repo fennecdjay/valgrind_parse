@@ -44,7 +44,7 @@ int main(int argc, char *argv[]) {
           break;
         if (gl.line[2 + pidlen + 3] == '\n')
           continue;
-        printf("[%u] %s", ++error, gl.line + pidlen + 5);
+        printf("[%u] %s", ++error, gl.line + pidlen + 2);
         if (get(&gl) == -1)
           break;
         printf("%s", gl.line + pidlen + 5);
